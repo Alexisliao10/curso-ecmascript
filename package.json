@@ -11,7 +11,8 @@
     "url": "git+https://github.com/Alexisliao10/curso-ecmascript.git"
   },
   "author": "Alexis Liao <alexisliao10@hotmail.com>",
-  "license": "ISC",
+  "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Alexisliao10/curso-ecmascript/issues"
   },
