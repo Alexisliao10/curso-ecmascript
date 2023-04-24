@@ -8,3 +8,5 @@ const users = {
 };
 
 console.log(users?.bebeloper?.country);
+
+console.log(users.gndx.country);
